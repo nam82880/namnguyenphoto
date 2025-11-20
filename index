@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Moments</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+<meta name="description" content="This is a description for this page of the website.">
+<!-----------FONTS!------------>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap" rel="stylesheet">
+</head>
+
+<body>
+	<header>
+		<h1>Nam Nguyen</h1>
+		<h2>Photojournalist</h2>
+		<nav class="navbar">
+			<ul>
+				<li><a href="index.html">Moments</a></li>
+				<li><a href="editing.html">Editing</a></li>
+				<li><a href="about.html">About</a></li>
+			</ul>
+		</nav>
+		
+	<footer class="side-footer">
+		Website by Nam Nguyen
+	</footer>
+	</header>
+
+	<div id="content-area">
+	<main>
+
+	<div class="gallery">
+		<figure class="photo-card">
+			<img src="img/family.jpg" alt="A family of four laughs at a fallen Jenga tower.">
+			<figcaption>From left, Miriam, 5, knocks over the tower during a game of Jenga as her father, Harrison Backer, and brothers Richard, 2, and Lewis, 4, laugh on March 20, 2025, at their home in Fulton. “They are wonderful,” Harrison Backer said. “There’s nothing more rewarding after all the work we do on the interstate than coming home and hearing them yell ‘Dad.’ They are the reason for all of it.”</figcaption>
+		</figure>
+
+		<figure class="photo-card">
+			<img src="img/protest.jpg" alt="A man shouts into a mega phone amidst a protest.">
+			<figcaption>Deon Henderson chants during the Defend the Will of the People Rally on May 15, 2025, at the Missouri Capitol in Jefferson City. Henderson is a member of Stand Up KC, an organization focused on advocating for fair wages, decent working conditions and a voice for low-wage workers. </figcaption>
+		</figure>
+
+		<figure class="photo-card">
+			<img src="img/baseball.jpg" alt="A man pitches a baseball.">
+			<figcaption>Mizzou Pitcher Victor Christal throws the ball against Lindenwood on Feb. 25, 2025, at Taylor Stadium in Columbia. The Tigers defeated the Lions 14-10.</figcaption>
+		</figure>
+
+	</div>
+</main>
+	</div>
+</body>
+</html>
